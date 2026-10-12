@@ -1,0 +1,12 @@
+mlflow==3.17.0
+scikit-learn==1.9.1
+skops==0.16.0
+pandas==3.0.6
+numpy==2.5.4
+matplotlib==3.11.2
+loguru==0.7.3
+python-dotenv==1.2.4
+tqdm==4.70.1
+typer==0.27.3
+
+-e .
